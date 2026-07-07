@@ -8,7 +8,12 @@ const Header = () => (
     <Container className="px-0 py-1">
       <div className="row align-items-center">
         <div className="col-md-6">
-	  <Image src="/Gwangju.jpg" alt='Gwangju' fluid />
+		<Image 
+		  src="/Gwangju.jpg" 
+		  alt="Gwangju" 
+		  className="img-fluid" 
+		  style={{ width: '80%' }} 
+		/>
         </div>
         <div className="col-md-6">
           <h1 className='h1 text-center anchor font-weight-bold'>LASD@<a className='u' href='https://www.sigapp.org/sac/sac2027/'>SAC'27</a></h1>
