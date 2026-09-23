@@ -8,7 +8,7 @@ const conferences = [
     title: "LASD@ISD'26",
     location: "Prague 2026",
     website: "https://y2026b.lasd.pl",
-    proceedings: ""
+    proceedings: "https://aisel.aisnet.org/isd2014/proceedings2026/agile/"
   },
   {
     title: "LASD@SAC'26",

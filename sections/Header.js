@@ -21,9 +21,11 @@ const Header = () => (
           <h3 className='text-center h4 pb-3'><small>at the 42nd ACM/SIGAPP Symposium On Applied Computing</small></h3>
           <h4 className='text-center h5'>April 5-9, 2027</h4>
           <h4 className='text-center h5 pb-3'>Gwangju, South Korea</h4>
+{/* 
 	  <h4 className='text-center h5'>
 		<span className='badge bg-warning p-2 m-3'><a className='u' href='https://y2026b.lasd.pl/'>LASD@ISD'26</a>, September 2–4, Prague, Czechia</span>
 	  </h4>
+*/}
         </div>
       </div>
     </Container>
